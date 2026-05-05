@@ -1,0 +1,66 @@
+/* Classic Theme - Professional & Minimalist */
+#resume-preview.theme-classic {
+    font-family: 'Georgia', serif;
+    padding: 2rem;
+    color: #000;
+    line-height: 1.5;
+}
+
+#resume-preview.theme-classic .header {
+    text-align: center;
+    margin-bottom: 2rem;
+    border-bottom: 2px solid #000;
+    padding-bottom: 1rem;
+}
+
+#resume-preview.theme-classic h1 {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 0.5rem;
+}
+
+#resume-preview.theme-classic .contact-info {
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+#resume-preview.theme-classic section {
+    margin-bottom: 1.5rem;
+}
+
+#resume-preview.theme-classic h2 {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.25rem;
+}
+
+#resume-preview.theme-classic .experience-item,
+#resume-preview.theme-classic .education-item {
+    margin-bottom: 1rem;
+}
+
+#resume-preview.theme-classic .item-header {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+#resume-preview.theme-classic .skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+#resume-preview.theme-classic .skill-tag {
+    background: #f0f0f0;
+    padding: 0.2rem 0.5rem;
+    border: 1px solid #ddd;
+    font-size: 0.85rem;
+}
+
+#resume-preview.theme-classic .bio {
+    margin-bottom: 1.5rem;
+}
